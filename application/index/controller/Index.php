@@ -15,6 +15,6 @@ class Index
 
     public function test()
     {
-        return 'Nice, it worked!';
+        return 'it worked!';
     }
 }
