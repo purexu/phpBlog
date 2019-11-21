@@ -12,4 +12,9 @@ class Index
     {
         return 'hello,' . $name;
     }
+
+    public function test()
+    {
+        return 'it again again again again again again worked!';
+    }
 }
