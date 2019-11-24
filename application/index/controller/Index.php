@@ -15,7 +15,6 @@ class Index
 
     public function test()
     {
-        //test
-        return 'it again again again again again again worked!';
+        return '公司的电脑第二次推送的';
     }
 }
