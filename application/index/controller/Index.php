@@ -13,5 +13,10 @@ class Index
         return 'hello,' . $name;
     }
 
-
+    public function test()
+    {
+        //test
+        //test2test3
+        return '公司的电脑第四次推送的';
+    }
 }
