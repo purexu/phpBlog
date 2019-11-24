@@ -15,6 +15,6 @@ class Index
 
     public function test()
     {
-        return '公司的电脑第五次推送的';
+        return '公司的电脑第六次推送的';
     }
 }
