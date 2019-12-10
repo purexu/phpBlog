@@ -2,9 +2,6 @@
 
 namespace app\Common\Controller;
 
-use app\index\controller\BaseController;
-use think\App;
-
 class BlogBaseController extends BaseController{
 
     //初始化头部导航
