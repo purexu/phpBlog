@@ -1,7 +1,7 @@
 <?php
 namespace app\index\controller;
-
-class Index extends Blog{
+use app\Common\Controller\BlogBaseController;
+class Index extends BlogBaseController{
     public function index(){
         return "hello thinkphp";
     }
