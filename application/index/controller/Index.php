@@ -8,6 +8,7 @@ class Index extends BlogBaseController{
     }
 
     public function index() {
+        //test
         return "hello thinkphp";
     }
 }
