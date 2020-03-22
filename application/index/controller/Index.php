@@ -7,7 +7,7 @@ class Index extends BlogBaseController{
         parent::__construct();
     }
 
-    //test again again again again again this must success!
+    //just a test~
     public function index() {
         return "hello ThinkPHP!";
     }
